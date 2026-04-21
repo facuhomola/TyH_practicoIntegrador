@@ -1,10 +1,10 @@
 # 📰 Sistema de Gestión de Noticias
 
-Aplicación web desarrollada en PHP para la administración de noticias por parte de usuarios autenticados. Permite crear, editar, publicar y gestionar contenido de forma sencilla.
+Aplicación web desarrollada en CodeIgniter para la administración de noticias por parte de usuarios autenticados. Permite crear, editar, publicar y gestionar contenido.
 
 ---
 
-## 🚀 Características
+## Características
 
 - ✔️ Gestión de noticias (CRUD)
 - ✔️ Sistema de usuarios (autores)
@@ -15,7 +15,7 @@ Aplicación web desarrollada en PHP para la administración de noticias por part
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - PHP (CodeIgniter / Laravel / Vanilla)
 - MySQL
